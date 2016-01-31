@@ -25,13 +25,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "FoodTracker/MealCollectionViewController.swift"
-            timestampString = "475628054.06127"
+            filePath = "FoodTracker/MealTableViewController.swift"
+            timestampString = "475688257.300127"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "loadSampleMeals()"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "prepareForSegue(_:sender:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
